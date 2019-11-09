@@ -1,1 +1,1 @@
-from .dronecontrol import DroneControl
+from dronecontrol import DroneControl

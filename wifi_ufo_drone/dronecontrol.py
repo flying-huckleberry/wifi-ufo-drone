@@ -3,7 +3,8 @@ import random
 import threading
 import time
 
-from scapy.all import *
+from scapy import *
+from scapy.layers.inet import *
 
 
 UDP_HEARTBEAT_DATA = bytearray([0x63, 0x63, 0x01, 0x00, 0x00, 0x00, 0x00])
