@@ -18,12 +18,12 @@ This Python script allows remote control of some drone models via computer keybo
 | --- | --- |
 | Esc | Exit Control |
 | Spacebar | Vertical Takeoff/Land |
-| Tab | Increase Speed |
+| Tab | Cycle Speeds |
 | W/A/S/D | Pitch Forward/Left/Down/Right |
-| Up Arrow | Throttle Up |
-| Down Arrow | Throttle Down |
-| Right Arrow | Yaw Right |
-| Left Arrow | Yaw Left |
+| ↑ | Throttle Up |
+| ↓ | Throttle Down |
+| → | Yaw Right |
+| ← | Yaw Left |
 
 ## License
  - MIT License
